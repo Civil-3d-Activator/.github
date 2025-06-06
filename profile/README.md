@@ -62,10 +62,10 @@ Enable full capabilities of **Autodesk Civil 3D** with this standalone setup ass
 
 ## 🖼️ Preview
 
-![Civil 3D Tools Enabled](https://content.autodesk.com/civil3d/interface_fulltools.jpg)  
+![Civil 3D Tools Enabled](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-autocad-civil-3d/fy25/features/key-features-of-civil-3d-2025-thumb-1920x1080.jpg)  
 *Access to complete design interface modules*
 
-![Grading & Surface Panel](https://content.autodesk.com/civil3d/grading_surface.jpg)  
+![Grading & Surface Panel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HowKRIq9WZbOwRzrCY1uFmPddLpaNuj1ea6wuX-wxSOTyM-G-7e9DvVWm9BH7zCgSU0&usqp=CAU)  
 *Terrain modeling, grading tools, and surface visualization*
 
 ---
